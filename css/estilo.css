@@ -1,0 +1,71 @@
+.img-estilo {
+    width: 100%;
+}
+
+.links {
+    font-family: Verdana, Arial, sans-serif;
+    color: rgb(238, 122, 50);
+    font-weight: bold;
+    font-size: 25px;
+} 
+
+.titulo1 {  
+    font-family: Verdana, Arial, sans-serif;
+    color: rgb(119, 85, 72);
+    font-size: 50px;
+}
+
+.titulo2 {  
+    font-family: Verdana, Arial, sans-serif;
+    background-color: rgb(119, 85, 72);
+    color: white;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.lista1 {
+    font-family: Verdana, Arial, sans-serif;
+    color: rgb(119, 85, 72);
+    font-size: 20px;
+}
+
+p {
+    font-family: Verdana, Arial, sans-serif;
+    color: rgb(119, 85, 72);
+    font-size: 20px;
+}
+
+.link1 {
+    font-family: Verdana, Arial, sans-serif;
+    color: rgb(117, 190, 208);
+    font-weight: bold;
+    font-size: 25px;
+} 
+
+.link2 {
+    font-family: Verdana, Arial, sans-serif;
+    color: red;
+    font-weight: bold;
+    font-size: 25px;
+} 
+
+.link3 {
+    font-family: Verdana, Arial, sans-serif;
+    color: rgb(238, 122, 50);
+    font-weight: bold;
+    font-size: 20px;
+} 
+
+.lista2 {
+    font-family: Verdana, Arial, sans-serif;
+    color: rgb(119, 85, 72);
+    font-size: 20px;
+}
+
+.titulo3 {  
+    font-family: Verdana, Arial, sans-serif;
+    background-color: rgb(119, 85, 72);
+    color: yellow;
+    font-weight: bolder;
+    font-size: 30px;
+}
